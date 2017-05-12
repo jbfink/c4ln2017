@@ -1,0 +1,15 @@
+﻿c4ln preso slide notes
+
+
+* explanation of origin of title - make mention of anthropocene conf, talk about uneasiness over anthro + political situations. say this is new territory, never talked about something that isn't a defined tech. apologies?
+* who I am etc
+* hey how about those floods we had recently? anybody impacted? Did any infrastructure break?
+* fire! chicago fire! what happens in the event of a fire?
+* libraries as structure - we have buildings, we *usually* have advantages related to those buildings, like height and power.
+* This is a ham radio "shack". explain what a shack is. Explain what a repeater is. Point to some stuff. Explain that some repeaters have "e-power", for power outages. Explain that amateur radio guys practice for this sort of stuff, like (usually) benign and (usually) better-intentioned preppers. Why aren't there left-wing preppers?
+* amateur radio's diversity problem.
+* Most amateur radio equipment is expensive, but there has been an explosion of cheap-but-good equipment lately. the UV5R is, to some extent, the Raspberry Pi of the ham radio world. Pull yours out, say after lunch will explain some to folks if they're interested.
+* Since we kind of have wireless covered, talk about power issues. How do we power things in the event of prolonged electricity outages? Admit you don't know what the hell you're talking about on this score. Ask if anyone does.
+* Talk about mesh networking a bit. Mention Montreal mesh (pictured), Toronto's. Talk up Iqaluit, say that this is actually an established, non-shady way to bring internet service to Nunavut. To understand the challenges of implementing resilient systems, maybe look to how they bring service in places like this. Discuss how a possible library meshnet might work. Do we care about the ILS? Other services? Or do we just provide wifi infrastructure for people to contact others around them?
+* Here's a pi3. Big surprise. But the pi3 (can) do several things that earlier Pis could not. Yes, built-in networking, everybody knows. Networking can work with mesh software! But mention SD card problems, say pi3 can boot sd-card-less, also mention PoE.
+* Any questions? Discussion?
